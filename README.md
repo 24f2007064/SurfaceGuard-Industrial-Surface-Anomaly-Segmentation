@@ -26,14 +26,23 @@ The final evaluation metric is a weighted combination of:
 industrial-surface-defect-detection/
 
 ├── public/
+
 │   ├── train/
+
 │   │   ├── 0001.jpg
+
 │   │   ├── 0002.jpg
+
 │   │   └── ...
+
 │   ├── test/
+
 │   │   ├── 0001.jpg
+
 │   │   └── ...
+
 │   ├── train.csv
+
 │   └── sample_submission.csv
 
 
